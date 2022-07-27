@@ -6,3 +6,4 @@ import collections from "./components/collections.js";
 import brands from "./components/brands.js";
 
 sliders(3)
+brands()
