@@ -1,0 +1,20 @@
+.brandList{
+    background-color: var(--brandBg);
+}
+#brands{
+    overflow: hidden;
+    position: relative;
+    height: 87px;
+    display: flex;
+	align-items: center;
+}
+.brand-item{
+    transition: .5s;
+    overflow: hidden;
+    float: left;
+    text-align: center;
+    position: absolute;
+}
+.brand-item img {
+    width: 200px;
+}
